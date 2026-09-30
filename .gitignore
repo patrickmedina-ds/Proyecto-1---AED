@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+suffix_tree
+media/texts/
+media/videos/animacion/1080p60/partial_movie_files/
